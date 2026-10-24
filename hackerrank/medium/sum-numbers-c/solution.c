@@ -3,9 +3,10 @@
 #include <math.h>
 #include <stdlib.h>
 
+
 int main()
 {
-	 int a,b;
+    int a,b;
     float c,d;
     
     scanf("%d %d",&a,&b);
@@ -16,3 +17,4 @@ int main()
     
     return 0;
 }
+    
